@@ -2,8 +2,8 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
 a {
@@ -13,4 +13,19 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.quote .rdw-option-wrapper {
+  background-image: url("https://c.neh.tw/thumb/f/720/comvecteezy638533.jpg");
+  width: 25px;
+  height: 20px;
+  text-indent: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.rdw-editor-toolbar.toolbar-class{
+  justify-content: center;
 }
