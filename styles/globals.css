@@ -17,13 +17,12 @@ a {
 
 .quote .rdw-option-wrapper {
   background-image: url("https://c.neh.tw/thumb/f/720/comvecteezy638533.jpg");
-  width: 25px;
-  height: 20px;
-  text-indent: 100%;
+  text-indent: -9999px;
   background-size: cover;
   background-repeat: no-repeat;
   white-space: nowrap;
   overflow: hidden;
+  font-size: 0px;
 }
 
 .rdw-editor-toolbar.toolbar-class{
